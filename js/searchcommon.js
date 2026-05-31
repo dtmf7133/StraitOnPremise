@@ -41,9 +41,9 @@ function search(this1) {
      $(this1).val(tags);
      $("#"+id).show();
      found=found+1;
-     if (found>=7) {
-      break;
-     }
+     //if (found>=7) {
+     //  break;
+     //}
    } else {
      $("#"+id).hide(); 
    }
