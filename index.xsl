@@ -84,8 +84,7 @@ NetStrait was developed using javascript technology too. Please enable javascrip
       <a href="http://numode.eu" title="Ciao! Vai alla Home di NuMode?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/" title="Oh, vai su GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a>
    </div>
        
-   <!--<form id="frmUpload" style="width:90%;min-width:380px;max-width:950px;margin:auto;background:rgb(233, 238, 248);min-height:2500px;padding-left:25px;padding-right:25px;" onsubmit="event.preventDefault();$('#butSearch-addon').click();">  -->
-   <form id="frmUpload" style="width:100%;min-width:380px;max-width:100%;margin:auto;background:rgb(233, 238, 248);min-height:2500px;padding-left:25px;padding-right:25px;" onsubmit="event.preventDefault();$('#butSearch-addon').click();">
+   <form id="frmUpload" style="width:100%;min-width:380px;max-width:100%;margin:auto;background:rgb(233, 238, 248);min-height:2500px;padding-left:5px;padding-right:25px;" onsubmit="event.preventDefault();$('#butSearch-addon').click();">
    
    <div id="title"> 
 
@@ -303,17 +302,20 @@ NetStrait was developed using javascript technology too. Please enable javascrip
 
   window.addEventListener("load", function() {
     if (window.innerWidth < 800) {
-      $("#frmUpload").css("margin-left", "5%");
+      $("#frmUpload").css("margin-left", "");
       $("#q").css("margin-left","15px");
     } else {
+	  $("#frmUpload").css("margin-left", "5%");
       $("#q").css("margin-left","");
     }
   }, true);
 
   window.addEventListener("resize", function() {
     if (window.innerWidth < 800) {
+	  $("#frmUpload").css("margin-left", "");
       $("#q").css("margin-left","15px");
     } else {
+	  $("#frmUpload").css("margin-left", "5%");
       $("#q").css("margin-left","");
     }
   }, true);
