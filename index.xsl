@@ -78,10 +78,10 @@ NetStrait was developed using javascript technology too. Please enable javascrip
   
    <!--<div id="header" class="header" style="background: rgb(194, 219, 242);margin-left:18px;margin-top:18px;margin-bottom:18px;">-->
    <div id="header" class="header" style="background: rgb(233, 238, 248);margin-left:18px;margin-top:18px;margin-bottom:18px;">
-      <a href="http://numode.eu" title="Ciao! Vai alla Home di NuMode?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/" title="Oh, vai su GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a> 
+      <a href="http://numode.eu" title="Hello! Going to NuMode Home?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/" title="Oh, going to GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a> 
    </div>
    <div id="headerMob" class="header" style="margin-left:18px;margin-top:18px;margin-bottom:18px;display:none">
-      <a href="http://numode.eu" title="Ciao! Vai alla Home di NuMode?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/" title="Oh, vai su GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a>
+      <a href="http://numode.eu" title="Hello! Going to NuMode Home?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/" title="Oh, going to GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a>
    </div>
        
    <form id="frmUpload" style="width:100%;min-width:380px;max-width:100%;margin:auto;background:rgb(233, 238, 248);min-height:2500px;padding-left:5px;padding-right:25px;" onsubmit="event.preventDefault();$('#butSearch-addon').click();">
@@ -110,7 +110,7 @@ NetStrait was developed using javascript technology too. Please enable javascrip
               <xsl:sort select="ID" data-type="number" order="ascending"/>
 
               <option>
-                 <xsl:attribute name="value"><xsl:value-of select="TAGS"/></xsl:attribute>
+                 <xsl:attribute name="value"><xsl:value-of select="PROJECT"/></xsl:attribute>
               </option>
               
           </xsl:for-each>
@@ -127,9 +127,9 @@ NetStrait was developed using javascript technology too. Please enable javascrip
 
       <br/>
 
-      <table style="margin-left:60px;min-width:70%">
+      <table style="margin-left:60px;min-width:85%">
       <tr>         
-       <td id="content-td" colspan="2" style="min-height:2200px;">
+       <td id="content-td" colspan="2" style="min-height:2200px;vertical-align:top;">
       
         <div id="content-cont">
       
@@ -212,9 +212,9 @@ NetStrait was developed using javascript technology too. Please enable javascrip
                 </pre>
                 </lt-content>
 
+                <br/>
+				 
              </div>
-	
-             <br/>
 	
             </xsl:for-each>
 
