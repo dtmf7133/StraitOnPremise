@@ -51,7 +51,9 @@ function search(this1) {
  $(this1).val(""); 
  if (found===0) {
    $("#noresult").show();
- }
+ } else {
+   $("#noresult").hide();
+ }  
  //if (found>=1) {
   $("#friends").show();
  //} 
