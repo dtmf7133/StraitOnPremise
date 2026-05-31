@@ -100,7 +100,7 @@ NetStrait was developed using javascript technology too. Please enable javascrip
       <tr>
         <td class="search-td" style="width:100%;white-space:nowrap;">       
           
-          <input id="q" mylist="liveres" type="text" class="input-search search-box" style="position:relative;top:+0px;left:-60px;width:65%;min-width:100px;height:60px;border:6px solid #d2454c;border-radius:5px;font-size:29px;font-family:Lato,sans,sans-serif;font-weight:900;padding:6px;padding-left:15px;text-transform:uppercase;color:lightgray;" placeholder="SEARCH" maxlength="30" title="type here..."/>&#8201;&#8201;&#8201;&#8201;
+          <input id="q" list="liveres" type="text" class="input-search search-box" style="position:relative;top:+0px;left:-60px;width:65%;min-width:100px;height:60px;border:6px solid #d2454c;border-radius:5px;font-size:29px;font-family:Lato,sans,sans-serif;font-weight:900;padding:6px;padding-left:15px;text-transform:uppercase;color:lightgray;" placeholder="SEARCH" maxlength="30" title="type here..."/>&#8201;&#8201;&#8201;&#8201;
           
           <span id="butSearch-addon" onmouseover="$(this).css('cursor','pointer');" style="cursor:pointer;position:relative;margin-left:15px;left:-90px;width:60px;height:80;top:18px;font-size:60px;color:#d2454c;" class="glyphicon glyphicon-search" title="Search!" onclick="search($('input#q'));">&#8201;<!--<img src="/res/arrow-lb.png" style="width:80px;"/>--></span>
           
