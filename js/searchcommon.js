@@ -30,7 +30,7 @@ $("#-q").on("keydown",function(e){
 */
 
 function search(this1) {
- var text = $(this1).val().trim();
+ var text = $(this1).val().trim().toLowerCase();
  var re = new RegExp(text, "si");
  var found=0;
  for(i=1;i<linkt.length;i++) {
@@ -38,7 +38,7 @@ function search(this1) {
    id =  linkids[i];
    if (re.test(tags)) {
      //window.open("#"+id, "_self");
-     $(this1).val(tags);
+     //$(this1).val(tags);
      $("#"+id).show();
      found=found+1;
      //if (found>=7) {
@@ -48,7 +48,7 @@ function search(this1) {
      $("#"+id).hide(); 
    }
  }    
- $(this1).val(""); 
+ //$(this1).val(""); 
  if (found===0) {
    $("#noresult").show();
  } else {
