@@ -1,4 +1,4 @@
-# StraitOnPremise
+# NetStrait
 A github web frontend - GPL
 
 Just copy all the project files filling in the xml data with your github projects data.
