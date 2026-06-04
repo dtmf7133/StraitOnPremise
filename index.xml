@@ -46,7 +46,7 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <SEEURL5/>
     <TYPE>project</TYPE>
     <CAT>info</CAT>
-    <TAGS>radxide development ide standalone rad coding software tcl-tk</TAGS>
+    <TAGS>radxide development ide standalone rad coding software tcltk</TAGS>
     <INDEX>1</INDEX>
   </ITEM>
   <ITEM>
@@ -71,11 +71,86 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <SEEURL5/>
     <TYPE>project</TYPE>
     <CAT>info</CAT>
-    <TAGS>tiny-tools unix openbsd toolset tools</TAGS>
+    <TAGS>tiny-tools unix openbsd toolset tools shell</TAGS>
     <INDEX>2</INDEX>
   </ITEM>
   <ITEM>
     <ID>3</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Homogram]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Homogram</PROJECTURL>
+    <DESC><![CDATA[Every person its pictures, instagram like on premise solution - PHP: <=8.1, GPL 🔥]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Homogram/archive/refs/tags/v1.5.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Homogram/archive/refs/tags/v1.5.9.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://homogram.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://homogram.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://homogram.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>homogram image photo sharing instagramlike onpremise php</TAGS>
+    <INDEX>3</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>4</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Homomm]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Homomm</PROJECTURL>
+    <DESC><![CDATA[Every person its messages, whats app like on premise solution - PHP: <=8.1, GPL 🔥]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Homomm/archive/refs/tags/v2.2.7.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Homomm/archive/refs/tags/v2.2.7.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://homomm.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://homomm.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://homomm.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>homomm web multimedia solution messaging onpremise whatsapp-like php</TAGS>
+    <INDEX>4</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>5</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[JohnDoe-Page]]></PROJECT>
+    <PROJECTURL>http://johndoe-page.numode-foss.eu/</PROJECTURL>
+    <DESC><![CDATA[Every person its online presence (software on premise) - GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/JohnDoe-Page/archive/refs/tags/v1.1.3.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/JohnDoe-Page/archive/refs/tags/v1.1.3.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://johndoe-page.numode-foss.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>johndoe-page website web static presence web-presence xml xslt</TAGS>
+    <INDEX>5</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>6</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[AvatarFree]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/AvatarFree</PROJECTURL>
@@ -96,7 +171,1182 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <SEEURL5/>
     <TYPE>project</TYPE>
     <CAT>info</CAT>
-    <TAGS>avatarfree blog social free presence onpremise</TAGS>
-    <INDEX>3</INDEX>
+    <TAGS>avatarfree blog social free presence onpremise php</TAGS>
+    <INDEX>6</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>7</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[FloatingBuds]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/FloatingBuds</PROJECTURL>
+    <DESC><![CDATA[Everyone its uri-based conversations (software on premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/FloatingBuds/archive/refs/tags/v1.1.1.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/FloatingBuds/archive/refs/tags/v1.1.1.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://floatingbuds.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://floatingbuds.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://floatingbuds.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>floatingbuds uri-based conversation buddies php</TAGS>
+    <INDEX>7</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>8</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[FastErr]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/FastErr</PROJECTURL>
+    <DESC><![CDATA[FastErr class, the smart Err class - BSD License]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/FastErr/archive/refs/heads/master.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/FastErr/archive/refs/heads/master.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>http://numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>fasterr class opensource fast error php</TAGS>
+    <INDEX>8</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>9</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[FastMySql]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/FastMySql</PROJECTURL>
+    <DESC><![CDATA[FastMySql class, the smart DB class - BSD License]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/FastMySql/archive/refs/heads/master.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/FastMySql/archive/refs/heads/master.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>http://numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>fastmysql class opensource fast db php</TAGS>
+    <INDEX>9</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>10</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[FastCached]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/FastCached</PROJECTURL>
+    <DESC><![CDATA[FastCache class ported to Memcached - BSD License]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/FastCached/archive/refs/heads/main.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/FastCached/archive/refs/heads/main.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>http://numode.eu/</SEEURL1> 
+    <SEE2/> 
+    <SEEURL2/> 
+    <SEE3/> 
+    <SEEURL3/> 
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>fastcached class opensource fast cached memcached php</TAGS>
+    <INDEX>10</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>11</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[FastCache]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/FastCache</PROJECTURL>
+    <DESC><![CDATA[FastCache class, the smart Cache class - BSD License]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/FastCache/archive/refs/heads/master.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/FastCache/archive/refs/heads/master.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>http://numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>fastcache class opensource fast cache memcached php</TAGS>
+    <INDEX>11</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>12</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[FastPagination]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/FastPagination</PROJECTURL>
+    <DESC><![CDATA[FastPagination class, the smart Pagination class - BSD License]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/FastPagination/archive/refs/heads/master.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/FastPagination/archive/refs/heads/master.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>http://numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>fastpagination class opensource pagination php</TAGS>
+    <INDEX>12</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>13</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[FastSession]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/FastSession</PROJECTURL>
+    <DESC><![CDATA[FastSession class, the smart Session class - BSD License]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/FastSession/archive/refs/heads/master.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/FastSession/archive/refs/heads/master.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>http://numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>fastsession class opensource session php</TAGS>
+    <INDEX>13</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>14</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[FastCookie]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/FastCookie</PROJECTURL>
+    <DESC><![CDATA[FastCookie class, the smart Cookie class - BSD License]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/FastCookie/archive/refs/heads/master.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/FastCookie/archive/refs/heads/master.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>http://numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>fastcookie class opensource cookie php</TAGS>
+    <INDEX>14</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>15</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[NavAI]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/NavAI</PROJECTURL>
+    <DESC><![CDATA[Everyone its navagation AI - MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/NavAI/archive/refs/tags/v1.0.8.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/NavAI/archive/refs/tags/v1.0.8.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://navai.numode-foss.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>navai ai navigation mit html</TAGS>
+    <INDEX>15</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>16</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[SqueePF]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/SqueePF</PROJECTURL>
+    <DESC><![CDATA[Sanity-check quasi universale and PHP Framework. Let everyone squeeze its PHP code - GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/SqueePF/archive/refs/tags/v0.1.1.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/SqueePF/archive/refs/tags/v0.1.1.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://navai.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://navai.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://navai.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>squeepf sanity-check framework php</TAGS>
+    <INDEX>16</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>17</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[StarWorth]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/StarWorth</PROJECTURL>
+    <DESC><![CDATA[A team can have multiple projects in multitasking, and timetotime the client or the manager popping up by an "hammer". Otherwise a simple fact sharing tool.]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/StarWorth/archive/refs/tags/v1.0.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/StarWorth/archive/refs/tags/v1.0.9.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://starworth.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://starworth.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://starworth.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>starworth project tool events facts sharing php</TAGS>
+    <INDEX>17</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>18</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[www-conf-viewer]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/www-conf-viewer</PROJECTURL>
+    <DESC><![CDATA[Everyone its web config. A config viewer (nginx, phpfpm) for every website. - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/www-conf-viewer/archive/refs/tags/v1.1.3.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/www-conf-viewer/archive/refs/tags/v1.1.3.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://www-conf-viewer.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://www-conf-viewer.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://www-conf-viewer.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>www-conf-viewer configuration web viwer phpfpm nginx php</TAGS>
+    <INDEX>18</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>19</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[HttpConsole]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/HttpConsole</PROJECTURL>
+    <DESC><![CDATA[A light and simple web console to manage your website (software on premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/HttpConsole/archive/refs/tags/v1.2.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/HttpConsole/archive/refs/tags/v1.2.9.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://httpconsole.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://httpconsole.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://httpconsole.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>httpconsole light console web terminal simple web administration management tool php</TAGS>
+    <INDEX>19</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>20</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Actitude]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Actitude</PROJECTURL>
+    <DESC><![CDATA[Let everyone register or support you (software on premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Actitude/archive/refs/tags/v1.3.0.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Actitude/archive/refs/tags/v1.3.0.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://actitude.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://actitude.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://actitude.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>actitude support donation page hugs event registration tool php</TAGS>
+    <INDEX>20</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>21</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Homolog]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Homolog</PROJECTURL>
+    <DESC><![CDATA[Let everyone register or support you (software on premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Homolog/archive/refs/tags/v1.3.3.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Homolog/archive/refs/tags/v1.3.3.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://homolog.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://homolog.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://homolog.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>homolog events calendar logger gpl php</TAGS>
+    <INDEX>21</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>22</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[GrandePuffo]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/GrandePuffo</PROJECTURL>
+    <DESC><![CDATA[Let everyone register or support you (software on premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/GrandePuffo/archive/refs/heads/main.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/GrandePuffo/archive/refs/heads/main.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://grandepuffo.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://grandepuffo.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://grandepuffo.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>grandepuffo web security demo php</TAGS>
+    <INDEX>22</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>23</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[LightOff]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/LightOff</PROJECTURL>
+    <DESC><![CDATA[Let everyone surf Internet by a confortable gray light and imageless (on premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/LightOff/archive/refs/tags/v1.2.4.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/LightOff/archive/refs/tags/v1.2.4.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://lightoff.net/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>lightoff web internet proxy imageless onpremise php</TAGS>
+    <INDEX>23</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>24</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Timelapse]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Timelapse</PROJECTURL>
+    <DESC><![CDATA[Everyone its photo blog (on premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Timelapse/archive/refs/tags/v1.3.2.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Timelapse/archive/refs/tags/v1.3.2.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://timelapse.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://timelapse.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://timelapse.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>timelapse photo blog solution free onpremise php</TAGS>
+    <INDEX>24</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>25</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[LittleFLog]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/LittleFLog</PROJECTURL>
+    <DESC><![CDATA[A little free log, on premise <= PHP 8.2, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/LittleFLog/archive/refs/tags/v1.0.7.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/LittleFLog/archive/refs/tags/v1.0.7.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://littleflog.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://littleflog.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://littleflog.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>littleflog free little web log tool onpremise php</TAGS>
+    <INDEX>25</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>26</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Faceborg]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Faceborg</PROJECTURL>
+    <DESC><![CDATA[Everyone its colorful blog (on premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Faceborg/archive/refs/tags/v1.0.7.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Faceborg/archive/refs/tags/v1.0.7.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://faceborg.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://faceborg.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://faceborg.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>faceborg colorful cards blog onpremise php</TAGS>
+    <INDEX>26</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>27</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Musicing]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Musicing</PROJECTURL>
+    <DESC><![CDATA[Everyone its music blog (on Premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Musicing/archive/refs/tags/v2.1.0.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Musicing/archive/refs/tags/v2.1.0.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://musicing.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://musicing.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://musicing.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>musicing music blog onpremise php</TAGS>
+    <INDEX>27</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>28</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Invenktory]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Invenktory</PROJECTURL>
+    <DESC><![CDATA[Finally the smart inventory solution to track your hardware and any other geek stuff (software on premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Invenktory/archive/refs/tags/v1.1.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Invenktory/archive/refs/tags/v1.1.9.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://invenktory.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://invenktory.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://invenktory.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>invenktory hardware invenctory tool onpremise gpl php</TAGS>
+    <INDEX>28</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>29</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[DropIn]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/DropIn</PROJECTURL>
+    <DESC><![CDATA[Everyone its own stuff in excerpts. - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/DropIn/archive/refs/tags/v1.1.7.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/DropIn/archive/refs/tags/v1.1.7.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://dropin.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://dropin.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://dropin.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>dropin excerpt stuff logger onpremise php</TAGS>
+    <INDEX>29</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>30</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[DropInPic]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/DropInPic</PROJECTURL>
+    <DESC><![CDATA[Let's everyone drop in their picture - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/DropInPic/archive/refs/tags/v1.0.7.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/DropInPic/archive/refs/tags/v1.0.7.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://dropinpic.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://dropinpic.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://dropinpic.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>dropinpic picture dragndrop logger onpremise php</TAGS>
+    <INDEX>30</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>31</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[DropInSound]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/DropInSound</PROJECTURL>
+    <DESC><![CDATA[Let's everyone drop in their sound. - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/DropInSound/archive/refs/tags/v1.0.7.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/DropInSound/archive/refs/tags/v1.0.7.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://dropinsound.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://dropinsound.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://dropinsound.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>dropinsound sound dragndrop logger onpremise php</TAGS>
+    <INDEX>31</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>32</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Msg]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Msg</PROJECTURL>
+    <DESC><![CDATA[Everyone its voice machine - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Msg/archive/refs/tags/v1.0.7.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Msg/archive/refs/tags/v1.0.7.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://msg.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://msg.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://msg.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>msg voice machine solution onpremise php</TAGS>
+    <INDEX>32</INDEX>
+  </ITEM>
+ <ITEM>
+    <ID>33</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Buzzcing]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Buzzcing</PROJECTURL>
+    <DESC><![CDATA[Everyone its listings (on Premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Buzzcing/archive/refs/tags/v1.0.8.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Buzzcing/archive/refs/tags/v1.0.8.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://buzzcing.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://buzzcing.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://buzzcing.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>buzzcing solution listings craglists-like onpromise php</TAGS>
+    <INDEX>33</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>34</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Placeroll]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Placeroll</PROJECTURL>
+    <DESC><![CDATA[Everyone its place idea - GPL3, PHP <= 8.2]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Placeroll/archive/refs/tags/v1.0.5.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Placeroll/archive/refs/tags/v1.0.5.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://placeroll.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://placeroll.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://placeroll.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>placeroll photo roll onpremise php</TAGS>
+    <INDEX>34</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>35</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Fooddish]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Fooddish</PROJECTURL>
+    <DESC><![CDATA[Fooddish! Everyone its food! - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Fooddish/archive/refs/tags/v1.0.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Fooddish/archive/refs/tags/v1.0.9.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://fooddish.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://fooddish.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://fooddish.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>fooddish food gallery onpremise php</TAGS>
+    <INDEX>35</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>36</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Sfatto]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Sfatto</PROJECTURL>
+    <DESC><![CDATA[Every human and robot its own status PHP<=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Sfatto/archive/refs/tags/v1.0.6.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Sfatto/archive/refs/tags/v1.0.6.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://sfatto.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://sfatto.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://sfatto.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>sfatto avatar robot status status-page php</TAGS>
+    <INDEX>36</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>37</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[TheMultiversed-org]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/TheMultiversed-org</PROJECTURL>
+    <DESC><![CDATA[Everyone its team (on premise) - PHP: <=8.1, BSD]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/TheMultiversed-org/archive/refs/tags/v1.2.0.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/TheMultiversed-org/archive/refs/tags/v1.2.0.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://themultiversed.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://themultiversed.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://themultiversed.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>themultiversed-org social homepage team toolset onpremise php</TAGS>
+    <INDEX>37</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>38</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[ApiGrave]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/ApiGrave</PROJECTURL>
+    <DESC><![CDATA[Your api, our grave. Let's wrap your php api online with ease.. - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/ApiGrave/archive/refs/tags/v1.1.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/ApiGrave/archive/refs/tags/v1.1.9.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://apigrave.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://apigrave.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://apigrave.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>apigrave api wrapper webservices self-documenting onpremise php</TAGS>
+    <INDEX>38</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>39</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Puzzleu]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Puzzleu</PROJECTURL>
+    <DESC><![CDATA[Everyone its own gallery - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Puzzleu/archive/refs/tags/v1.2.6.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Puzzleu/archive/refs/tags/v1.2.6.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://puzzleu.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://puzzleu.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://puzzleu.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>pazzleu photo gallery free onpremise php</TAGS>
+    <INDEX>39</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>40</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[SeaMiner]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/SeaMiner</PROJECTURL>
+    <DESC><![CDATA[A semanitc web simplification attempt]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/SeaMiner/archive/refs/tags/v1.0.6.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/SeaMiner/archive/refs/tags/v1.0.6.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>https://numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>seaminer semantic web mirroring onpremise php</TAGS>
+    <INDEX>40</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>41</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Foodlet]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Foodlet</PROJECTURL>
+    <DESC><![CDATA[Everyone its menu. PHP <=8.1, GPL3]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Foodlet/archive/refs/tags/v1.2.6.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Foodlet/archive/refs/tags/v1.2.6.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://foodlet.org/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>foodlet web menu for-everyone freemium onpremise php</TAGS>
+    <INDEX>41</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>42</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Dropjs]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Dropjs</PROJECTURL>
+    <DESC><![CDATA[The iconic js library - BSD License]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Dropjs/archive/refs/tags/v1.0.7.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Dropjs/archive/refs/tags/v1.0.7.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://dropjs.numode-lab.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>dropjs oop javascript library drag-and-drop javascript js</TAGS>
+    <INDEX>42</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>43</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[SqueeJS]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/SqueeJS</PROJECTURL>
+    <DESC><![CDATA[Let everyone squeeze its JS code - MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/SqueeJS/archive/refs/heads/main.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/SqueeJS/archive/refs/heads/main.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://squeejs.numode-foss.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>squeejs framework mit javascript js php</TAGS>
+    <INDEX>43</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>44</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[syscleandoc]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/syscleandoc</PROJECTURL>
+    <DESC><![CDATA[A *doced* sysclean wrapper (script and web frontend) - MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/syscleandoc/archive/refs/tags/v1.0.6.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/syscleandoc/archive/refs/tags/v1.0.6.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode BSD Blog]]></SEE1>
+    <SEEURL1>http://bsd.gaoxio.com/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>syscleandoc doc wrapper documenting sysclean openbsd shell</TAGS>
+    <INDEX>44</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>45</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[www-log-viewer]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/www-log-viewer</PROJECTURL>
+    <DESC><![CDATA[A *doced* sysclean wrapper (script and web frontend) - MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/www-log-viewer/archive/refs/tags/v1.1.0.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/www-log-viewer/archive/refs/tags/v1.1.0.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode BSD Blog]]></SEE1>
+    <SEEURL1>http://bsd.gaoxio.com/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>www-log-viewer shell web log-viewer openbsd php</TAGS>
+    <INDEX>45</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>46</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[pdftexter]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/pdftexter</PROJECTURL>
+    <DESC><![CDATA[A pdf textual reader for OpenBSD (script and web frontend) - MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/pdftexter/archive/refs/tags/v1.1.8.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/pdftexter/archive/refs/tags/v1.1.8.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode BSD Blog]]></SEE1>
+    <SEEURL1>http://bsd.gaoxio.com/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>pdftexter text pdf-viewer ksh pdf-reader openbsd shell</TAGS>
+    <INDEX>46</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>47</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[BoxToBox]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/BoxToBox</PROJECTURL>
+    <DESC><![CDATA[Your clientside boxed development console (on premise) - MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/BoxToBox/archive/refs/tags/v1.0.8.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/BoxToBox/archive/refs/tags/v1.0.8.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://boxtobox.numode-foss.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>boxtobox client-side boxed dev web-developement jsfiddle-like html</TAGS>
+    <INDEX>47</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>48</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[BugzillaPHPwrapper]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/BugzillaPHPwrapper</PROJECTURL>
+    <DESC><![CDATA[In the end the PHP princess will save Bugzilla.. - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/BugzillaPHPwrapper/archive/refs/tags/v1.1.0.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/BugzillaPHPwrapper/archive/refs/tags/v1.1.0.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>https://numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>bugzillaphpwrapper bugzilla wrapper php</TAGS>
+    <INDEX>48</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>49</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[CodeCleaner]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/CodeCleaner</PROJECTURL>
+    <DESC><![CDATA[A code cleaner tested under OpenBSD and supplied AS-IS - MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/CodeCleaner/archive/refs/heads/main.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/CodeCleaner/archive/refs/heads/main.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode BSD Blog]]></SEE1>
+    <SEEURL1>https://bsd.numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>codecleaner comment cleaner eraser openbsd shell</TAGS>
+    <INDEX>49</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>50</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[live2tar]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/live2tar</PROJECTURL>
+    <DESC><![CDATA[Everyone its live work to tar files]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/live2tar/archive/refs/tags/v1.0.5.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/live2tar/archive/refs/tags/v1.0.5.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode BSD Blog]]></SEE1>
+    <SEEURL1>https://bsd.numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>live2tar transfer server tool shell</TAGS>
+    <INDEX>50</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>51</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[LittleRecaptcha]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/LittleRecaptcha</PROJECTURL>
+    <DESC><![CDATA[LittleRecaptcha is here.]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/LittleRecaptcha/archive/refs/tags/v1.0.5.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/LittleRecaptcha/archive/refs/tags/v1.0.5.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>https://numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>littlerecaptcha simple recaptcha mit php</TAGS>
+    <INDEX>51</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>52</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[StraitOnPremise]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/StraitOnPremise</PROJECTURL>
+    <DESC><![CDATA[A github web frontend - GPL.]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/StraitOnPremise/archive/refs/tags/v1.0.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/StraitOnPremise/archive/refs/tags/v1.0.9.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode NetStrait homepage]]></SEE1>
+    <SEEURL1>https://netstrait.org/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>straitonpremise github web frontend onpremise xml xslt</TAGS>
+    <INDEX>52</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>53</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[qrc]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/qrc</PROJECTURL>
+    <DESC><![CDATA[Everyone its QRCODES, just create your standard /qrc - MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/qrc/archive/refs/tags/v1.0.6.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/qrc/archive/refs/tags/v1.0.6.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[web2qrc homepage]]></SEE1>
+    <SEEURL1>https://web2qrc.com/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>qrc website  qrcode  web2qrc</TAGS>
+    <INDEX>53</INDEX>
   </ITEM>
 </CONTENT>
