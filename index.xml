@@ -1302,13 +1302,13 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
   <ITEM>
     <ID>52</ID>
     <DATE>2026-05-30</DATE>
-    <PROJECT><![CDATA[StraitOnPremise]]></PROJECT>
-    <PROJECTURL>https://github.com/dtmf7133/StraitOnPremise</PROJECTURL>
+    <PROJECT><![CDATA[NetStrait]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/NetStrait</PROJECTURL>
     <DESC><![CDATA[A github web frontend - GPL.]]></DESC>
     <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
-    <DOWNLOADURL1>https://github.com/dtmf7133/StraitOnPremise/archive/refs/tags/v1.0.9.zip</DOWNLOADURL1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/NetStrait/archive/refs/tags/v1.1.0.zip</DOWNLOADURL1>
     <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
-    <DOWNLOADURL2>https://github.com/dtmf7133/StraitOnPremise/archive/refs/tags/v1.0.9.tar.gz</DOWNLOADURL2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/NetStrait/archive/refs/tags/v1.1.0.tar.gz</DOWNLOADURL2>
     <SEE1><![CDATA[NuMode NetStrait homepage]]></SEE1>
     <SEEURL1>https://netstrait.org/</SEEURL1>
     <SEE2/>
