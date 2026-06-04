@@ -264,7 +264,7 @@ NetStrait was developed using javascript technology too. Please enable javascrip
 
   <div id="footerCont">&#8201;</div>
   <div id="footer" style="width:100%;text-align:right;">
-    <span style="background:#FFFFFF; opacity:0.7;">&#8201;&#8201;get it on <a href="http://github.com/dtmf7133" style="color:#d2524c;font-weight:900;">GitHub</a>. A <a href="https://numode.eu" style="color:#d2524c;font-weight:900;">NuMode</a> project.</span>&#8201;&#8201;
+    <span style="background:#FFFFFF; opacity:0.7;">&#8201;&#8201;get <a href="http://github.com/dtmf7133/NetStrait" style="color:#d2524c;font-weight:900;">NetStrait</a>. A <a href="https://numode.eu" style="color:#d2524c;font-weight:900;">NuMode</a> project.</span>&#8201;&#8201;
   </div>
            
      <script>
