@@ -2,7 +2,28 @@
 
 <xsl:output method="html" version="4"/>
 
-<!-- File name: index.xsl, part of NetStrait -->
+<!-- File name: index.xsl, part of NetStrait
+
+GPL 3 License
+
+Copyright 2021, 2028 NuMode
+
+This file is part of NetStrait.
+
+NetStrait is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+NetStrait is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.  
+ 
+You should have received a copy of the GNU General Public License
+along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
+	
+-->
 
 	<xsl:template match="CONTENT">
 
